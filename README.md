@@ -21,7 +21,7 @@
     <li><b>ImageDataGenerator:</b> Ferramenta para pré-processamento e augmentação de imagens.
 </ul>
 
----
+
 
 <h2>📂 Estrutura do Projeto</h2>
 
